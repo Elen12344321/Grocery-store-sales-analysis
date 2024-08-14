@@ -1,4 +1,4 @@
-#Grocery Store Sales Analysis Project#
+**Grocery Store Sales Analysis Project**
 
 This project involves an in-depth analysis of a grocery store's sales data to uncover valuable business insights. The dataset contains records of individual transactions, including customer demographics, payment methods, and various financial metrics. The project aims to explore purchasing behaviors, evaluate the effectiveness of loyalty programs, and analyze store performance.
 
